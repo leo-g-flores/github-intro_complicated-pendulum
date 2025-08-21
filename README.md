@@ -1,14 +1,15 @@
 # github-intro_complicated-pendulum
 ## Resources for **markdown**
-### sub-subheading
 
-* item
-* another item
-  * _sublist item_
+[Makrkdown Tutorial]
+
+## Adding some equations with Latex
+
+Latex-in-markdown
+
+$a_1 = b^2 = \int_0^1 dt \sqrt{\xi_\beta^n (t)}$
 
 
-- item
-- _**another item**_
   - sublist item
 
 1. first item
